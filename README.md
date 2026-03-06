@@ -8,7 +8,7 @@ This repository contains my solutions to the LeetCode **SQL 50 Study Plan**, a c
 - Track learning progress through consistent problem solving
 
 ## Source
-LeetCode – [SQL 50 Study Plan](https://leetcode.com/studyplan/sql/)
+LeetCode – [SQL 50 Study Plan](https://leetcode.com/studyplan/top-sql-50/)
 
 ## Structure
 Each file corresponds to one problem and contains the SQL query used to solve it.
